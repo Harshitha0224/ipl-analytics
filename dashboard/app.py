@@ -85,6 +85,9 @@ st.sidebar.markdown("### 📌 About")
 st.sidebar.info(
     "End-to-end IPL Data Science Project\n\n"
     "Built with Python, Pandas, Scikit-learn, SQLite & Streamlit"
+    "👩‍💻 Made by Praharshitha\n"
+    "🎯 Aspiring Data Scientist"
+
 )
 
 # ══════════════════════════════════════════════════════
