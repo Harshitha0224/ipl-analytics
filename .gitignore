@@ -1,0 +1,14 @@
+data/raw/
+src/model.pkl
+src/encoders.pkl
+src/ipl_predictions.db
+src/__pycache__/
+dashboard/ipl_predictions.db
+ipl_predictions.db
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+src/.ipynb_checkpoints/
+*.db
